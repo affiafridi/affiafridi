@@ -1,4 +1,4 @@
-<img src="./banner.svg" alt="Aftab Afridi — Full-stack developer in Dubai" width="100%" />
+<!-- <img src="./banner.svg" alt="Aftab Afridi — Full-stack developer in Dubai" width="100%" /> -->
 
 ### Hey, I'm Aftab 👋
 
