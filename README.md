@@ -4,7 +4,7 @@
 
 I build production web applications and the backends that hold them up — schema design, API layers, authentication, real-time systems, and the third-party integrations that are usually the hardest part.
 
-🔭 &nbsp;Currently building **[Foundly](https://foundly.ae)**, a bilingual lost-and-found marketplace for the UAE<br/>
+🔭 &nbsp;Currently building **[Foundly](https://foundly.ae)**, a bilingual lost-and-found community for the UAE<br/>
 ⚡ &nbsp;Most at home in Next.js, TypeScript and PostgreSQL — with six years of WordPress underneath<br/>
 🌍 &nbsp;I ship English/Arabic products, and speak English, Urdu, Hindi and Pashto<br/>
 📫 &nbsp;Reach me at **affiafridi.dev@gmail.com**
@@ -23,7 +23,7 @@ I build production web applications and the backends that hold them up — schem
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
 </p>
 
-A bilingual English/Arabic lost-and-found marketplace for the UAE. Built it, launched it, run it.
+A bilingual English/Arabic lost-and-found community for the UAE. Built it, launched it, run it.
 
 - **Bilingual at the schema level** — Arabic titles, descriptions and SEO fields are first-class columns, not a translation table
 - **Deterministic matching engine** — scores lost↔found pairs 0–100 on token similarity with a custom stemmer, category and city hierarchy traversal, and date proximity
